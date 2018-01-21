@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 30c916fea97d6c2478d092078277b519
+timeCreated: 1487396040
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragonboss_lefthand1
+    21300002: dragonboss_righthand1
+    21300004: dragonboss_leftleg
+    21300006: dragonboss_rightleg
+    21300008: dragonboss_chest
+    21300010: dragonboss_headTop
+    21300012: dragonboss_headJaw
+    21300014: dragonboss_neck_piece
+    21300016: dragonboss_clipped_rev_1_0
+    21300018: dragonboss_spell
+    21300020: dragonboss_tail
+    21300022: dragonboss_tail
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragonboss_lefthand1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 88
+        height: 61
+      alignment: 9
+      pivot: {x: 0.78726995, y: 0.74123055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragonboss_righthand1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 94
+        height: 63
+      alignment: 9
+      pivot: {x: 0.76893353, y: 0.7096164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragonboss_leftleg
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 82
+        width: 63
+        height: 79
+      alignment: 9
+      pivot: {x: 0.52994597, y: 0.8008921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragonboss_rightleg
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 81
+        width: 60
+        height: 87
+      alignment: 9
+      pivot: {x: 0.31763408, y: 0.6517911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragonboss_chest
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 170
+        width: 115
+        height: 64
+      alignment: 9
+      pivot: {x: 0.38192445, y: 0.4419031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragonboss_headTop
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 457
+        width: 83
+        height: 93
+      alignment: 9
+      pivot: {x: 0.76650447, y: 0.29970658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragonboss_headJaw
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 467
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6806525, y: 0.7613513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragonboss_neck_piece
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 338
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragonboss_clipped_rev_1_0
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 148
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragonboss_spell
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 474
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.0528066, y: 0.46025002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragonboss_tail
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 382
+        width: 24
+        height: 36
+      alignment: 9
+      pivot: {x: 0.21537781, y: 0.51185864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

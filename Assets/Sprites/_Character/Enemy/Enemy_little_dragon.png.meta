@@ -1,0 +1,1114 @@
+fileFormatVersion: 2
+guid: 3f72901be9be74432960a36f99ff2817
+timeCreated: 1488584429
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy_little_dragon_0
+    21300002: Enemy_little_dragon_1
+    21300004: Enemy_little_dragon_2
+    21300006: Enemy_little_dragon_3
+    21300008: Enemy_little_dragon_4
+    21300010: Enemy_little_dragon_5
+    21300012: Enemy_little_dragon_6
+    21300014: Enemy_little_dragon_7
+    21300016: Enemy_little_dragon_8
+    21300018: Enemy_little_dragon_9
+    21300020: Enemy_little_dragon_10
+    21300022: Enemy_little_dragon_11
+    21300024: Enemy_little_dragon_12
+    21300026: Enemy_little_dragon_13
+    21300028: Enemy_little_dragon_14
+    21300030: Enemy_little_dragon_15
+    21300032: Enemy_little_dragon_16
+    21300034: Enemy_little_dragon_17
+    21300036: Enemy_little_dragon_18
+    21300038: Enemy_little_dragon_19
+    21300040: Enemy_little_dragon_20
+    21300042: Enemy_little_dragon_21
+    21300044: Enemy_little_dragon_22
+    21300046: Enemy_little_dragon_23
+    21300048: Enemy_little_dragon_24
+    21300050: Enemy_little_dragon_25
+    21300052: Enemy_little_dragon_26
+    21300054: Enemy_little_dragon_27
+    21300056: Enemy_little_dragon_28
+    21300058: Enemy_little_dragon_29
+    21300060: Enemy_little_dragon_30
+    21300062: Enemy_little_dragon_31
+    21300064: Enemy_little_dragon_32
+    21300066: Enemy_little_dragon_33
+    21300068: Enemy_little_dragon_34
+    21300070: Enemy_little_dragon_35
+    21300072: Enemy_little_dragon_36
+    21300074: Enemy_little_dragon_37
+    21300076: Enemy_little_dragon_38
+    21300078: Enemy_little_dragon_39
+    21300080: Enemy_little_dragon_40
+    21300082: Enemy_little_dragon_41
+    21300084: Enemy_little_dragon_42
+    21300086: Enemy_little_dragon_43
+    21300088: Enemy_little_dragon_44
+    21300090: Enemy_little_dragon_45
+    21300092: Enemy_little_dragon_46
+    21300094: Enemy_little_dragon_47
+    21300096: Enemy_little_dragon_48
+    21300098: Enemy_little_dragon_49
+    21300100: Enemy_little_dragon_50
+    21300102: Enemy_little_dragon_51
+    21300104: Enemy_little_dragon_52
+    21300106: Enemy_little_dragon_53
+    21300108: Enemy_little_dragon_54
+    21300110: Enemy_little_dragon_55
+    21300112: Enemy_little_dragon_56
+    21300114: Enemy_little_dragon_57
+    21300116: Enemy_little_dragon_58
+    21300118: Enemy_little_dragon_59
+    21300120: Enemy_little_dragon_60
+    21300122: Enemy_little_dragon_61
+    21300124: Enemy_little_dragon_62
+    21300126: Enemy_little_dragon_63
+    21300128: Enemy_little_dragon_64
+    21300130: Enemy_little_dragon_65
+    21300132: Enemy_little_dragon_66
+    21300134: Enemy_little_dragon_67
+    21300136: Enemy_little_dragon_68
+    21300138: Enemy_little_dragon_69
+    21300140: Enemy_little_dragon_70
+    21300142: Enemy_little_dragon_71
+    21300144: Enemy_little_dragon_72
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_little_dragon_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 875
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 875
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 875
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 875
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_4
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 875
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_5
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 876
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_6
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 894
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 925
+        width: 127
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_8
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 878
+        width: 226
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 849
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_10
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 835
+        width: 143
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 750
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 750
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 748
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_14
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 750
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_15
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 750
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_16
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 750
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_17
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 790
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_18
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 810
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_19
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 806
+        width: 180
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 635
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 635
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 635
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 638
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_24
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 638
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_25
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 636
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_26
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 654
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_27
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 553
+        width: 185
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_28
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 603
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 510
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 510
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 508
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 511
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_33
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 512
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_34
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 509
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_35
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 550
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_36
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 532
+        width: 98
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 395
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 391
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 388
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_40
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 399
+        width: 127
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_41
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 400
+        width: 122
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_42
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 400
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_43
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 404
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_44
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 402
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_45
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 411
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_46
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 368
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 264
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_48
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 263
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 262
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_50
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 268
+        width: 111
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_51
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 270
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_52
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 270
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_53
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 270
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_54
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 265
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_55
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 307
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 147
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_57
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 146
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 143
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_59
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 152
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_60
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 161
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_61
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 161
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_62
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 161
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_63
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 151
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 23
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_66
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 14
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_67
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 21
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_68
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 98
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 26
+        width: 117
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_70
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 26
+        width: 117
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_71
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 27
+        width: 117
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_little_dragon_72
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 47
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

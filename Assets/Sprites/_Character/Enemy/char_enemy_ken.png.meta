@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: 1a1a31a1ca87d4047a7b6178157b8213
+timeCreated: 1488238890
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: char_enemy_ken_0
+    21300002: char_enemy_ken_1
+    21300004: char_enemy_ken_2
+    21300006: char_enemy_ken_3
+    21300008: char_enemy_ken_4
+    21300010: char_enemy_ken_5
+    21300012: char_enemy_ken_6
+    21300014: char_enemy_ken_7
+    21300016: char_enemy_ken_8
+    21300018: char_enemy_ken_9
+    21300020: char_enemy_ken_10
+    21300022: char_enemy_ken_11
+    21300024: char_enemy_ken_12
+    21300026: char_enemy_ken_13
+    21300028: char_enemy_ken_14
+    21300030: char_enemy_ken_15
+    21300032: char_enemy_ken_16
+    21300034: char_enemy_ken_17
+    21300036: char_enemy_ken_18
+    21300038: char_enemy_ken_19
+    21300040: char_enemy_ken_20
+    21300042: char_enemy_ken_21
+    21300044: char_enemy_ken_22
+    21300046: char_enemy_ken_23
+    21300048: char_enemy_ken_24
+    21300050: char_enemy_ken_25
+    21300052: char_enemy_ken_26
+    21300054: char_enemy_ken_27
+    21300056: char_enemy_ken_28
+    21300058: char_enemy_ken_29
+    21300060: char_enemy_ken_30
+    21300062: char_enemy_ken_31
+    21300064: char_enemy_ken_32
+    21300066: char_enemy_ken_33
+    21300068: char_enemy_ken_34
+    21300070: char_enemy_ken_35
+    21300072: char_enemy_ken_36
+    21300074: char_enemy_ken_37
+    21300076: char_enemy_ken_38
+    21300078: char_enemy_ken_39
+    21300080: char_enemy_ken_40
+    21300082: char_enemy_ken_41
+    21300084: char_enemy_ken_42
+    21300086: char_enemy_ken_43
+    21300088: char_enemy_ken_44
+    21300090: char_enemy_ken_45
+    21300092: char_enemy_ken_46
+    21300094: char_enemy_ken_47
+    21300096: char_enemy_ken_48
+    21300098: char_enemy_ken_49
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_enemy_ken_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 909
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 909
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 907
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 907
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 903
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 903
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 904
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 905
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_8
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 906
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_9
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 906
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 780
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 777
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 779
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 778
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 777
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 772
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 773
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_17
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 775
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_18
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 776
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_19
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 775
+        width: 93
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_20
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 773
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 634
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 634
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 633
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 636
+        width: 136
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_25
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 637
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_26
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 639
+        width: 133
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_27
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 637
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 516
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 518
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 520
+        width: 125
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 517
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 391
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 392
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 388
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 386
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 382
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 381
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 236
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 238
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 241
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 256
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_43
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 252
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_44
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 250
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 237
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_46
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 228
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 227
+        width: 70
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_48
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 224
+        width: 71
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_enemy_ken_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 384
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

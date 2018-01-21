@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 8583040c47122a340b1d780855469fbe
+timeCreated: 1492208248
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Seaweed_2_0
+    21300002: Seaweed_2_1
+    21300004: Seaweed_2_2
+    21300006: Seaweed_2_3
+    21300008: Seaweed_2_4
+    21300010: Seaweed_2_5
+    21300012: Seaweed_2_6
+    21300014: Seaweed_2_7
+    21300016: Seaweed_2_8
+    21300018: Seaweed_2_9
+    21300020: Seaweed_2_10
+    21300022: Seaweed_2_11
+    21300024: Seaweed_2_12
+    21300026: Seaweed_2_13
+    21300028: Seaweed_2_14
+    21300030: Seaweed_2_15
+    21300032: Seaweed_2_16
+    21300034: Seaweed_2_17
+    21300036: Seaweed_2_18
+    21300038: Seaweed_2_19
+    21300040: Seaweed_2_20
+    21300042: Seaweed_2_21
+    21300044: Seaweed_2_22
+    21300046: Seaweed_2_23
+    21300048: Seaweed_2_24
+    21300050: Seaweed_2_25
+    21300052: Seaweed_2_26
+    21300054: Seaweed_2_27
+    21300056: Seaweed_2_28
+    21300058: Seaweed_2_29
+    21300060: Seaweed_2_30
+    21300062: Seaweed_2_31
+    21300064: Seaweed_2_32
+    21300066: Seaweed_2_33
+    21300068: Seaweed_2_39
+    21300070: Seaweed_2_42
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seaweed_2_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 324
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 324
+        width: 16
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 323
+        width: 14
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 323
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 323
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 323
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 323
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 323
+        width: 14
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 241
+        width: 17
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 240
+        width: 16
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 14
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 240
+        width: 15
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 240
+        width: 15
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 240
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 241
+        width: 15
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_15
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 239
+        width: 15
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 164
+        width: 19
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 165
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 168
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 171
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 172
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 169
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 163
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 165
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 86
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 90
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 95
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 93
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 85
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 87
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_30
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 97
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_31
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 85
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 17
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 26
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seaweed_2_42
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 26
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

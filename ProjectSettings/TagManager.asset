@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player
+  - Bullet
+  - Wall
+  - EnemyBullet
+  - Enemy
+  - Obstacle
+  - deathBound
+  - PreviewPoint
+  - DragonBoss
+  - Rock
+  - ChaseEnemy
+  - PlayerBullet
+  - PlayerBulletEater
+  - Weapon
+  - WeaponBox
+  - Surprise
+  - Money
+  - Bubble
+  - CheckPoint
+  - PatrolEnemy
+  - HealthBar
+  - UI_Life
+  - UI_Weapon_num
+  - UI_Weapon_type
+  - UI_Score
+  - UI_Time
+  - UI_LifeReborn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ForeGround
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - Enemy
+  - Player
+  - EnemyBullet
+  - PlayerBullet
+  - Tools
+  - Traps
+  - CollisionEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 110727727
+    locked: 0
+  - name: bodyBack
+    uniqueID: 698238443
+    locked: 0
+  - name: bodyMiddle
+    uniqueID: 2767836361
+    locked: 0
+  - name: bodyFront
+    uniqueID: 1323960365
+    locked: 0
+  - name: BackGround_animation
+    uniqueID: 3750180175
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2003205785
+    locked: 0
+  - name: Explosion
+    uniqueID: 1984599941
+    locked: 0
